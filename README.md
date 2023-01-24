@@ -8,6 +8,16 @@ I just end up my grade on Computer Science at Havana's University ✨
 
 I love spending my free time drawing, listening to music an dpracticing the guitar, it relax me so much 😌
 
+
+
+
+---
+
+### Social Medias links 
+[LinkedIn](https://www.linkedin.com/in/yasmin-cisneros-cimadevila-8360b1197/)
+
+
+<!--
 ---
 
 
@@ -20,14 +30,7 @@ Always learning everything i can about:
 - Artificial Intelligence
 - Game Development
 
----
 
-### Social Medias links 
-[LinkedIn](https://www.linkedin.com/in/yasmin-cisneros-cimadevila-8360b1197/)
-
-
-
-<!--
 ----
 
 About me
