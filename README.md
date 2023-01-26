@@ -1,23 +1,34 @@
 ### Hi there 👋👋👋
 
-Hi! My name is Yasmin Cisneros Cimadevila🙋‍♀️. Here are some things about me👇:
+Hi! My name is Yasmin Cisneros Cimadevila🙋‍♀️. 
+
+I'm a full stack developer by day and digital artist by night. 
+
+---
+
+Here are some things about me👇:
 
 I live in Havana, Cuba. 🇨🇺
 
-I just end up my grade on Computer Science at Havana's University ✨
+I just finished my grade on Computer Science at Havana's University ✨
 
-I love spending my free time drawing, listening to music an dpracticing the guitar, it relax me so much 😌
-
-
-
+I love spending my free time drawing, listening to music and practicing the guitar, it relax me so much 😌
 
 ---
 
 ### Social Medias links 
 [LinkedIn](https://www.linkedin.com/in/yasmin-cisneros-cimadevila-8360b1197/)
 
-
 <!--
+---
+### Believes and thoughts
+
+❤ I really believe in good, I think that if you have the necessary conditions to help someone, then being good is a duty.
+
+❤ Nothing is free and it is our duty to know when to make the sacrifices to move forward in our search for happiness.
+
+❤ Forgiveness is hard, but cleans our souls.
+
 ---
 
 
