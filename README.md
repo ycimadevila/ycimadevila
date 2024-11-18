@@ -1,8 +1,6 @@
 ### Hi there 👋👋👋
 
-Hi! My name is Yasmin Cisneros Cimadevila🙋‍♀️. 
-
-I'm a full stack developer by day and digital artist by night. 
+Hi! My name is Yasmin Cisneros Cimadevila🙋‍♀️.
 
 ---
 
@@ -11,8 +9,6 @@ Here are some things about me👇:
 I live in Havana, Cuba. 🇨🇺
 
 I just finished my grade on Computer Science at Havana's University ✨
-
-I love spending my free time drawing, listening to music and practicing the guitar, it relax me so much 😌
 
 ---
 
