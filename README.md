@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 Results-oriented Full Stack Developer with experience in designing, developing, and maintaining web applications. Proven ability to collaborate effectively in team settings and deliver high-quality solutions. **Eager to embrace new technologies and expand my skillset to contribute to innovative projects**.
 
 
-## ✨ Professional Highlights ✨
+## 📚 Academics 📚
+- **Bachelor of Computer Science at Havana's University (2016-2022, Havana, Cuba)**
+
+<!--## ✨ Professional Highlights ✨
 - **Automated Performance Test Designing: Designed and coded automated performance tests tailored to diverse platforms and tools.**
-- **Project Leadership: Led numerous performance test projects, ensuring timely delivery and exceptional quality.**
 - **Comprehensive Analysis: Provided in-depth performance analysis and optimization recommendations.**
+- **Team co-worked: .**
 - **Cross-Platform Expertise: Versatile in testing a variety of applications, from web and mobile to enterprise systems.**
-- **Certified Technology Architect**
+- **Certified Technology Architect**-->
 
 ## 🛠 Expertise 🛠
 <!--
@@ -59,8 +62,6 @@ Results-oriented Full Stack Developer with experience in designing, developing, 
   - **Python**
   - **Django**
  
-## 📚 Academics 📚
-- **Bachelor of Computer Science at Havana's University (2016-2022, Havana, Cuba)**
 
 ## 🔗 Connect with Me 🔗
 - [LinkedIn](https://www.linkedin.com/in/ycimadevila/)
