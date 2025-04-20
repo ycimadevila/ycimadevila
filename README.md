@@ -67,11 +67,6 @@ Results-oriented Full Stack Developer with experience in designing, developing, 
 - [LinkedIn](https://www.linkedin.com/in/ycimadevila/)
 - By email [yasmincisneros.work@gmail.com](mailto:yasmincisneros.work@gmail.com)
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycimadevila&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycimadevila&layout=compact&theme=radical)
-
 ## 💼 Experience
 - **Full Stack Developer** at NTSprint LLC (02/2023 - Present) 
   - Developed and maintained web applications using Angular, Webforms, Blazor, C#, .NET Core, ASP.NET, and
@@ -88,6 +83,11 @@ various database environments (SQL Server, MongoDB).
   - Developed custom software solutions for the Company employees.
   - Worked as a teammate in the migration for one of the main application of the company, its Business
   Administration System (SAN)
+
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycimadevila&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycimadevila&layout=compact&theme=radical)
 
 <!--## 📈 Projects
 ### [Project Name 1](https://github.com/your-github-username/project1)
